@@ -5,6 +5,7 @@ langchain-community==0.2.19
 langchain-openai==0.1.25
 chromadb==0.3.29
 python-dotenv==1.0.1
+python-docx==1.1.2
 pandas==2.2.3
 numpy==1.26.4
 PyMuPDF==1.25.0
